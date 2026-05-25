@@ -4,3 +4,4 @@ numpy
 chromadb
 mcp
 asyncio
+tiktoken
