@@ -5,3 +5,4 @@ chromadb
 mcp
 asyncio
 tiktoken
+qdrant_client
