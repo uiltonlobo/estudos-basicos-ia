@@ -6,3 +6,7 @@ mcp
 asyncio
 tiktoken
 qdrant_client
+openinference-instrumentation-openai
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-otlp
